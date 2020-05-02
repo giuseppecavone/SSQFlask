@@ -1,0 +1,3 @@
+FLASK_APP=pymongoexample
+FLASK_ENV=development
+SECRET=gt4y38gqhbrev5oni
